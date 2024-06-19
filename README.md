@@ -1,5 +1,5 @@
 # 👨‍💻 About Me:
-🔭 I'm currently studying a Software Engineering<br>👯 I’m looking to collaborate on small projects or freelance<br>🤝 I’m looking for help with learn new things from the world of code<br>⚡ Fun fact:<br>The first time I encrypted, I made an app that would hide the folders and put a password on them<br>but it was a text file, so it was as easy as opening the file and seeing the password. 😅<br>
+🔭 I'm  a Software Engineering<br>👯 I’m looking to collaborate on  projects <br>🤝 I’m looking for help with learn new things from the world of code<br>⚡ Fun fact:<br>The first time I encrypted, I made an app that would hide the folders and put a password on them<br>but it was a text file, so it was as easy as opening the file and seeing the password. 😅<br>
 
 
 ## 🌐 Socials:
